@@ -4,8 +4,8 @@
 # 공개 배포에서는 아래 값을 빈칸으로 두고 Streamlit Settings → Secrets를 사용하세요.
 # 이미 Secrets나 설정 도우미에 키를 등록했다면 아래 두 줄은 그대로 두면 됩니다.
 # ============================================================
-ADMIN_API_KEY = ""
-KAKAO_REST_API_KEY = ""
+ADMIN_API_KEY = "QzAjtfdIGZxHaen63PZDjzL0EU2C6L59A2Wgp4W6bOVwmTsBBYZxx8A4H398SG7MlVmtLPyio0T+a3qp4DifKw=="
+KAKAO_REST_API_KEY = "8cca2475c3e669ff863cce9addb93925"
 
 import os
 import html
